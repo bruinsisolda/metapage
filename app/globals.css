@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-optimistic: var(--font-optimistic);
+}
+
+* {
+  font-family: var(--font-optimistic), system-ui, sans-serif;
+}

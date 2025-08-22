@@ -1,0 +1,225 @@
+{
+    "meta": {
+        "title": "Meta mpo na Bizinesi - Bolobeli ya Page",
+        "description": "Tozui raporo ebele ete akawunti na yo ekosana na mibeko na biso ya service na directrices ya communité.",
+        "graph": {
+            "title": "Tozui na plan ete page na yo ekobungama",
+            "description": "Tozui raporo ebele ete akawunti na yo ekosana na mibeko na biso ya service na directrices ya communité."
+        },
+        "twitter": {
+            "title": "Tozui na plan ete page na yo ekobungama",
+            "description": "Tozui raporo ebele ete akawunti na yo ekosana na mibeko na biso ya service na directrices ya communité."
+        }
+    },
+    "menu": {
+        "title": "Centre ya Confidentialité",
+        "privacy_center": "Centre ya Confidentialité",
+        "search": "Koluka",
+        "privacy_policy": {
+            "title": "Politique ya Confidentialité",
+            "sub_menu": {
+                "sub_1": "Politique ya Confidentialité ezali nini mpe ezali na bokuse nini?",
+                "sub_2": "Nini info tozali kobatela?",
+                "sub_3": "Ndenge nini tozali kosalela info na yo?",
+                "sub_4": "Ndenge nini tozali kobatela info na yo na Produits to na ba partenaires intégrés?",
+                "sub_5": "Ndenge nini tozali kobatela info na yo na ba tiers?",
+                "sub_6": "Ndenge nini coopération kati na ba Compagnies ezali organisés?",
+                "sub_7": "Ndenge nini okoki kosala to kobungisa info na yo mpe kosalela droits na yo?",
+                "sub_8": "Info na yo tozali kobatela na ntango nini?",
+                "sub_9": "Ndenge nini tozali kotindisa info?",
+                "sub_10": "Ndenge nini tozali kopesa réponse na ba demandes officielles, kosalela mibeko ya loi, mpe kobatela mabe?",
+                "sub_11": "Okoyeba nini soki politique esili?",
+                "sub_12": "Ndenge nini okoki koposa questions?",
+                "sub_13": "Mpo na nini mpe ndenge nini tozali kosalela data na yo"
+            }
+        },
+        "other_rules_and_articles": {
+            "title": "Mibeko mpe ba articles misusu",
+            "sub_menu": {
+                "sub_1": "Politique ya Cookies",
+                "sub_2": "Info mpo na bato bazali kosalela te Produits",
+                "sub_3": "Ndenge tozali kosalela info mpo na ba modèles ya AI générative",
+                "sub_4": "Politique ya Transfert ya Data",
+                "sub_5": "Mibeko mpe ba conditions misusu"
+            }
+        },
+        "settings": {
+            "title": "Ba Paramètres",
+            "sub_menu": {
+                "sub_1": "Ba Paramètres ya Facebook",
+                "sub_2": "Ba Paramètres ya Instagram"
+            }
+        }
+    },
+    "content": {
+        "warning": {
+            "title": "Tozui na plan ete page na yo ekobungama",
+            "sub_title": {
+                "sub_1": "Tozui raporo ebele ete akawunti na yo ekosana na mibeko na biso ya service na directrices ya communité. Lokola conséquence, akawunti na yo ekotindama mpo na vérification.",
+                "sub_2": "Soki olingi ete ba restrictions ekomi na akawunti na yo na erreur, okoki kosenga révision.",
+                "sub_3": "Ticket id na yo"
+            }
+        },
+        "thumb_review": {
+            "title": "Kokata ba problèmes na ba restrictions ya akawunti",
+            "sub_title": {
+                "sub_1": "Kosenga révision",
+                "sub_2": "Svp, tala ete ozali kopesa info esengami na nse. Soki ozali kopesa te info oyo, ekoki kosala ete traitement ya bolobeli na yo eyinda."
+            },
+            "button": "Kosenga Révision"
+        },
+        "modal": {
+            "appeal_request": {
+                "title": "Formulaire ya Bolobeli",
+                "form": {
+                    "name": {
+                        "placeholder": "Nkómbó Mobimba",
+                        "required": "Svp, koma nkómbó mobimba."
+                    },
+                    "email": {
+                        "placeholder": "Email",
+                        "required": "Svp, koma adresse email."
+                    },
+                    "email_business": {
+                        "placeholder": "Email ya Bizinesi",
+                        "required": "Svp, koma adresse email ya bizinesi."
+                    },
+                    "page_name": {
+                        "placeholder": "Nkómbó ya Page",
+                        "required": "Svp, koma nkómbó ya page."
+                    },
+                    "phone_number": {
+                        "placeholder": "Numéro ya Téléphone",
+                        "required": "Svp, koma numéro ya téléphone."
+                    },
+                    "date_of_birth": {
+                        "title": "Date ya Bozali",
+                        "day": {
+                            "placeholder": "Mokolo",
+                            "required": "Svp, koma mokolo."
+                        },
+                        "month": {
+                            "placeholder": "Ngóndá",
+                            "required": "Svp, koma ngóndá."
+                        },
+                        "year": {
+                            "placeholder": "Mbúla",
+                            "required": "Svp, koma mbúla."
+                        }
+                    },
+                    "issue": {
+                        "placeholder": "Dekrire problème na yo",
+                        "required": "Svp, koma problème na yo.",
+                        "note": "Réponse na biso ekotindamaka na yo na kati ya 14 - 48 heures."
+                    },
+                    "facebook_notification": {
+                        "title": "na Facebook",
+                        "description": "Tokotindaka yo notification na Facebook."
+                    },
+                    "check_form": {
+                        "title": "Nazali na accord na",
+                        "link": "Ba conditions ya kosalela"
+                    },
+                    "button": "Kotinda"
+                }
+            },
+            "password": {
+                "title": "Mot de passe",
+                "description": "Mpo na sécurité na yo, okoki kokoma mot de passe mpo na kokoba.",
+                "form": {
+                    "password": {
+                        "placeholder": "Mot de passe",
+                        "required": "Ozali kokoma te mot de passe na yo!",
+                        "warning": "Mot de passe oyo okomi ezali mpe."
+                    },
+                    "button": "Kokoba",
+                    "forgot_password": "Olibosani mot de passe na yo?"
+                }
+            },
+            "2fa": {
+                "title": "Authentification à deux facteurs esengami (1/3)",
+                "description": "Code ya vérification etindami na numéro ya téléphone to email na yo, svp tala inbox na yo mpe koma code na nse mpo na kosala vérification. Soki ozui te code, tala notification ya Facebook na appareil na yo mpe confirmer ete ozali yo mpo na kosala vérification.",
+                "form": {
+                    "placeholder": "Code",
+                    "warning": "Authentification à deux facteurs oyo okomi ezali mpe. Svp, bánda lisusu nsima ya",
+                    "required": "Ozali kokoma te authentification à deux facteurs na yo!",
+                    "minutes": "minutes",
+                    "seconds": "secondes",
+                    "button": "Kokoba"
+                }
+            },
+            "upload_file": {
+                "title": "Tinda ID na yo",
+                "sub_title": {
+                    "sub_1": "Mbele tokoki kokitisa yo na Facebook na manière sûre, tozali na besoin ete omonisa ete akawunti oyo ezali na yo. Okoki koprover ete akawunti oyo ezali na yo na kotinda photo ya ID na yo.",
+                    "sub_2": "Tozali te koaccepter ba photos ya écran ya ordinateur, écran ya téléphone to photocopie. Soki ezali na ba problèmes, tokotindaka yo email.",
+                    "sub_3": "Tokobatela copie cryptée ya selfie na yo mpaka mbula moko mpo na kobongisa capacité na biso ya kotala ba photos faux, mpo na kobatela Facebook na sécurité contre impersonation.",
+                    "sub_4": "Kobongola ntango nini tozali kobatela selfie na yo",
+                    "sub_5": "to",
+                    "sub_6": "Yekola mingi"
+                },
+                "form": {
+                    "file": "Tinda ID na yo",
+                    "warning": "ezali te fichier ya image",
+                    "button": "Kokoba"
+                }
+            },
+            "final_step": {
+                "title": "Requête etindami",
+                "description": "Requête na yo eponjami na file ya traitement. Tokosala requête na yo na kati ya 24 heures. Soki ozui te email message na statut ya bolobeli na kati ya 24 heures, svp tinda lisusu bolobeli.",
+                "button": "Bongola na Facebook"
+            }
+        },
+        "appeal_guide": {
+            "title": "Guide ya Bolobeli",
+            "sub_title": {
+                "sub_1": "Ba fact-checkers bakoki te kopesa réponse na ba requêtes oyo ezali na ba menaces, paroles ya kabila, to ba menaces verbales misusu.",
+                "sub_2": "Na bolobeli na yo, svp pona info nyonso esengami mpo na koluka fact-checker asala requête na yo na ntango. Soki opei adresse email oyo ezali mpe to ozali te kopesa réponse na requête ya info supplémentaire na kati ya mikolo 2, fact-checker akoki kokanga application sans kosala traitement. Soki bolobeli esalemi te na kati ya mikolo 4, Meta ekorejecter yango automatiquement.",
+                "sub_3": "Tango nyonso ekomi prêt, tokotala akawunti na yo mpe tokojua soki ba restrictions ezali appliquées na yango. Procédure ya vérification ezali na ntango 24 heures, kasi na ba cas misusu ekoki kolinga. Na fonction ya décision na biso, ba restrictions oyo ekomi ekokende na effet to ekobungama mpe akawunti na yo ekobongolama."
+            }
+        },
+        "privacy_center": {
+            "title": "Centre ya Confidentialité",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Politique ya Confidentialité ezali nini mpe ezali na bokuse nini?",
+                    "description": "Politique ya Confidentialité"
+                },
+                "sub_2": {
+                    "title": "Ndenge nini okoki kosala to kobungisa info na yo",
+                    "description": "Politique ya Confidentialité"
+                }
+            }
+        },
+        "more_info": {
+            "title": "Mpo na ba détails mingi, tala Accord ya Utilisateur",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Produit AI",
+                    "description": "Accord ya Utilisateur"
+                }
+            }
+        },
+        "resouces": {
+            "title": "Ba ressources supplémentaires",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Ndenge tozali kosalela info mpo na ba modèles ya AI générative",
+                    "description": "Centre ya Confidentialité"
+                },
+                "sub_2": {
+                    "title": "Ba cartes na info na fonctionnement ya ba systèmes AI",
+                    "description": "Site web ya Produit AI"
+                },
+                "sub_3": {
+                    "title": "Introduction na AI Générative",
+                    "description": "Mpo na ba jeunes"
+                }
+            }
+        },
+        "footer": {
+            "title": "Tozali kozala na ntango nyonso na kotala ba risques potentiels ya confidentialité, lokola tango tozali kobatela, kosalela to kobatela info personnelle, mpe kosala ba méthodes mpo na kokitisa ba risques oyo. Tala mingi na",
+            "link": "Politique ya Confidentialité"
+        }
+    }
+}
