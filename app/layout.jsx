@@ -33,6 +33,15 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-5TGXPNEDCF"></script>
+        <script dangerouslySetInnerHTML={{
+          __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-5TGXPNEDCF');
+          `
+        }} />
       </head>
       <body className={`${dmSans.className} ${optimisticFont.variable}`}>
         {children}
